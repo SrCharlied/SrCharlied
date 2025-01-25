@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hey!😄
+## I'm Carlos but you can call me charlie 
+
+Esp/Eng
+
+- Studying computer science at Universidad del Valle de Guatemala.
 
 <!--
 **SrCharlied/SrCharlied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
